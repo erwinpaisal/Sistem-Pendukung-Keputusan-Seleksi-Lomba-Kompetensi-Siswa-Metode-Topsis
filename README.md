@@ -42,6 +42,6 @@ Berikut Tampilan daripada aplikasi SPK Seleksi Lomba Kompetensi Siswa di SMK Neg
 
 TERIMA KASIH!! Jangan Lupa Follow IG & youtube Saya :
 
-https://www.instagram.com/erwinpaisal.id
-https://www.instagram.com/literasikoding
-http://www.youtube.com/c/LiterasiKoding
+- https://www.instagram.com/erwinpaisal.id
+- https://www.instagram.com/literasikoding
+- http://www.youtube.com/c/LiterasiKoding
