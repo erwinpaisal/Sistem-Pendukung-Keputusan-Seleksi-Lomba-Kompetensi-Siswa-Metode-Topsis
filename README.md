@@ -39,9 +39,6 @@ Berikut Tampilan daripada aplikasi SPK Seleksi Lomba Kompetensi Siswa di SMK Neg
 8. Halaman Download Laporan :
 ![laporan](https://user-images.githubusercontent.com/63776459/91838605-f68e3680-ec77-11ea-9aea-7fed59e7c68e.gif)
 
+TERIMA KASIH!! Untuk Inspirasi lain silahkan klik : 
 
-TERIMA KASIH!! Jangan Lupa Follow IG & youtube Saya :
-
-- https://www.instagram.com/erwinpaisal.id
-- https://www.instagram.com/literasikoding
-- http://www.youtube.com/c/LiterasiKoding
+https://biolinky.co/erwinpaisal
